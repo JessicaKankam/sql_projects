@@ -26,11 +26,12 @@ The dataset contains records of company layoffs across industries and countries,
 ## Cleaning Approach
 The cleaning process was implemented entirely in SQL and followed a structured workflow:
 1. Initial data inspection and profiling
-2.  Remove Duplicates
-3.  Standadize the data (text and date fields)
-4.  Null values and blank values
-5.  Remove any unnecessary columns. 
-6. Post-cleaning validation checks
+2. Create staging tables
+3.  Remove Duplicates
+4.  Standadize the data (text and date fields)
+5.  Null values and blank values
+6.  Remove any unnecessary columns. 
+7. Post-cleaning validation checks
 
 ## Files
 - `data/layoffs.csv` – Raw dataset
