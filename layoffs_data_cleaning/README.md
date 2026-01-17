@@ -34,9 +34,9 @@ The cleaning process was implemented entirely in SQL and followed a structured w
 7. Post-cleaning validation checks
 
 ## Files
-- `data/layoffs.csv` – Raw dataset
-- `cleaned data/layoffs.csv` - Cleaned dataset
-- `sql/layoffs_data_cleaning.sql` – SQL script containing inspection, cleaning, and validation logic
+- `[data/layoffs.csv]`[see raw data](datasets/raw_data_layoffs.csv)
+- `cleaned data/layoffs.csv` - [see cleaned data](datasets/cleaned_data_layoffs.csv)
+- `sql/layoffs_data_cleaning.sql` – [see sql script](sql/data_cleaning_project.sql)
 
 
 ## Skills Demonstrated
