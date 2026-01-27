@@ -29,7 +29,7 @@ Exploratory data analysis (EDA) using SQL on a **cleaned global layoffs dataset*
 
 ## Files
 - **1. [SQL File_EDA](EDA.sql)**
-- **2 [Cleaned Layoffs Dataset](../layoffs_data_cleaning/datasets/cleaned_data_layoffs.csv)**
+- **2. [Cleaned Layoffs Dataset](../layoffs_data_cleaning/datasets/cleaned_data_layoffs.csv)**
 
 ---
 
