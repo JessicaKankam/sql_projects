@@ -44,7 +44,3 @@ The cleaning process was implemented entirely in SQL and followed a structured w
 - Use of CTEs, JOINS, WHERE CLAUSE, CASE statements, and window functions
 - Data validation and quality checks
 - Writing structured, readable SQL scripts
-
-## Disclaimer
-This is a personal portfolio project created for demonstration purposes.
-
