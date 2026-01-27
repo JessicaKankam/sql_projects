@@ -1,7 +1,7 @@
 # Global Layoffs EDA (SQL)
 
 ## Overview
-Exploratory data analysis using SQL on a **cleaned global layoffs dataset** to identify trends across **companies, industries, countries, and time**.
+Exploratory data analysis (EDA) using SQL on a **cleaned global layoffs dataset** to identify trends across **companies, industries, countries, and time**.
 
 - Table used: `layoffs_staging2`
 - Focus: scale, timing, and concentration of layoffs
